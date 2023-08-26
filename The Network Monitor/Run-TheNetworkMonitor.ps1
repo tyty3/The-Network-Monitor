@@ -1,10 +1,8 @@
 ﻿###########################################################################################
 # Script Name: The Network Monitor
 # Script Purpose: The Network Monitor - Monitor Devices by pinging them
-# Created By: Woodward.Digital
-# Website: https://woodward.digital
-# Email: contact@woodward.digital
-# Version: v1.0
+# Email: sinclair.tyram@gmail.com
+# Version: v1.1
 ###########################################################################################
 
 #Set 
