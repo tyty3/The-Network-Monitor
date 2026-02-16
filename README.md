@@ -5,3 +5,4 @@ The Network Monitor is a simple PowerShell Ping Script that acts as a Network Mo
 The Network Monitor has been written and developed by Woodward.Digital and is distributed freely under the MIT License.<br><br>Please contact me if you have any comments or suggestions: contact@woodward.digital
 
 Please vist: https://woodward.digital/network-monitor-powershell-ping-script/
+Add more rules for IP 
